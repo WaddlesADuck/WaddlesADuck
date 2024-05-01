@@ -11,8 +11,8 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waddlesaduck&show_icons=true&locale=en" alt="waddlesaduck" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waddlesaduck&theme=onedark&show_icons=true&locale=en" alt="waddlesaduck" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waddlesaduck&" alt="waddlesaduck" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waddlesaduck&theme=onedark" alt="waddlesaduck" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=waddlesaduck&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
