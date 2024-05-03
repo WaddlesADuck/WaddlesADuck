@@ -7,11 +7,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have a pet Duck named Waddles 🦆
 
-### My Github Stats
-
-
+### My Stats
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waddlesaduck&theme=onedark&show_icons=true&locale=en" alt="waddlesaduck" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waddlesaduck&theme=onedark" alt="waddlesaduck" /></p>
 
